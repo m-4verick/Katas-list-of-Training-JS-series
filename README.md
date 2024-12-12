@@ -1,9 +1,9 @@
 # Katas list of Training JS series
 - [x] [#1: create your first JS function helloWorld](http://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
-- [ ] [#2: Basic data types--Number](http://www.codewars.com/kata/571edd157e8954bab500032d)
-- [ ] [#3:  Basic data types--String](http://www.codewars.com/kata/571edea4b625edcb51000d8e)
-- [ ] [#4:  Basic data types--Array](http://www.codewars.com/kata/571effabb625ed9b0600107a)
-- [ ] [#5:  Basic data types--Object](http://www.codewars.com/kata/571f1eb77e8954a812000837)
+- [x] [#2: Basic data types--Number](http://www.codewars.com/kata/571edd157e8954bab500032d)
+- [x] [#3:  Basic data types--String](http://www.codewars.com/kata/571edea4b625edcb51000d8e)
+- [x] [#4:  Basic data types--Array](http://www.codewars.com/kata/571effabb625ed9b0600107a)
+- [x] [#5:  Basic data types--Object](http://www.codewars.com/kata/571f1eb77e8954a812000837)
 - [ ] [#6:  Basic data types--Boolean and conditional statements if..else](http://www.codewars.com/kata/571f832f07363d295d001ba8)
 - [ ] [#7:  if..else and ternary operator](http://www.codewars.com/kata/57202aefe8d6c514300001fd)
 - [ ] [#8: Conditional statement--switch](http://www.codewars.com/kata/572059afc2f4612825000d8a)
