@@ -1,5 +1,5 @@
 # Katas list of Training JS series
- - [#1: create your first JS function helloWorld](http://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
+ - [#1: create your first JS function helloWorld](http://www.codewars.com/kata/571ec274b1c8d4a61c0000c8) v
  - [#2: Basic data types--Number](http://www.codewars.com/kata/571edd157e8954bab500032d)
  - [#3:  Basic data types--String](http://www.codewars.com/kata/571edea4b625edcb51000d8e)
  - [#4:  Basic data types--Array](http://www.codewars.com/kata/571effabb625ed9b0600107a)
